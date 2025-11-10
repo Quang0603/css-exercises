@@ -1,0 +1,19 @@
+/* Add CSS Styling */
+
+.odd{
+    background-color: lightpink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24px;
+    
+}
+
+#sup-2{
+    color: blue;
+    font-size: 36px;
+}
+
+.no-4{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
